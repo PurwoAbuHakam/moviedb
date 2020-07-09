@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context=".view.ui.movies.MovieFragment">
+
+    <ProgressBar
+            android:id="@+id/pbMovie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <SearchView
+            android:id="@+id/searchViewMovie"
+            android:iconifiedByDefault="false"
+            android:queryHint="@string/search_movie_hint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_movies"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/item_row_movie"/>
+</LinearLayout>

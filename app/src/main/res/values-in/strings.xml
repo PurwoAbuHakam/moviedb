@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">movie DB Apps</string>
+    <string name="movie_title">Judul Disini</string>
+    <string name="movie_desc">Deskripsi</string>
+    <string name="movie_release_date">Tanggal Rilis</string>
+    <string name="synopsis">Sinopsis :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_1">Pengaturan</string>
+    <string name="main_title"><![CDATA[Film & Acara TV]]></string>
+    <string name="fav_title"><![CDATA[Favourites]]></string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Acara TV</string>
+    <string name="poster">poster</string>
+    <string name="favourite">Favorit</string>
+    <string name="home">Beranda</string>
+    <string name="added_favourites">Ditambahkan ke Favorit</string>
+    <string name="search_movie_hint">Cari Judul Film Disini</string>
+    <string name="hint_search_tvshow">Cari Judul Acara TV Disini</string>
+    <string name="no_data">No Data</string>
+    <string name="favourite_widget">Favourite</string>
+    <string name="notif_repeat">Sudah cek film hari ini?</string>
+    <string name="pengaturan_bahasa">Pengaturan Bahasa</string>
+</resources>

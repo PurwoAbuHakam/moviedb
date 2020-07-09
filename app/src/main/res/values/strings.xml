@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie DB Apps</string>
+    <string name="movie_title">Title Goes Here</string>
+    <string name="movie_desc">Description Here</string>
+    <string name="movie_release_date">Release Date Here</string>
+    <string name="synopsis">Synopsis :</string>
+
+    <string name="menu_1">Settings</string>
+    <string name="main_title"><![CDATA[Movies & TV Show]]></string>
+    <string name="fav_title"><![CDATA[Favourites]]></string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="poster">poster</string>
+    <string name="favourite">Favourite</string>
+    <string name="home">Home</string>
+    <string name="added_favourites">Added To Favourite</string>
+    <string name="search_movie_hint">Search Movie Title Here</string>
+    <string name="hint_search_tvshow">Search TV Show Title Here</string>
+    <string name="no_data">No Data</string>
+    <string name="favourite_widget">Favourite</string>
+    <string name="notif_repeat">Have you check today\'s movie?</string>
+    <string name="pengaturan_bahasa">Language Setting</string>
+
+</resources>
